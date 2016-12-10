@@ -14,8 +14,7 @@ function populatePage (inventory) {
 
 function loadInventory (callback) {
   var inventoryLoader = new XMLHttpRequest();
-
-  inventoryLoader.addEventListener("load", function () {
+  inventoryLoader.addEventListener("load", loadInventory () {
 
   });
 }
