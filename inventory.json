@@ -6,6 +6,34 @@
         "year": "2006",
         "price": "8999",
         "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats; power everything"
+      },
+      {
+        "make":,
+        "model":,
+        "year":,
+        "price":,
+        "description":,
+      }
+      {
+        "make":,
+        "model":,
+        "year":,
+        "price":,
+        "description":,
+      }
+      {
+        "make":,
+        "model":,
+        "year":,
+        "price":,
+        "description":,
+      }
+      {
+        "make":,
+        "model":,
+        "year":,
+        "price":,
+        "description":,
       }
   ]
 }
