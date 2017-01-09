@@ -1,0 +1,39 @@
+{
+  "cars": [
+      {
+        "make": "Nissan",
+        "model": "Rogue",
+        "year": "2006",
+        "price": "8999",
+        "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats; power everything"
+      },
+      {
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "year": "2013",
+        "price": "14999",
+        "description": "Well taken care of; one owner, non-smoker",
+      }
+      {
+        "make": "Ford",
+        "model": "F-150",
+        "year": "2010",
+        "price": "16599",
+        "description": "All the towing power you'll ever need!",
+      }
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2009",
+        "price": "11999",
+        "description": "One of the most reliable cars you can buy!",
+      }
+      {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": "2011",
+        "price": "21999",
+        "description": " All the bells and whistles, including 4WD!",
+      }
+  ]
+}
